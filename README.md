@@ -50,12 +50,3 @@ Developed in PHP with dynamic data handling and reporting.
 A simulation project demonstrating AI behaviors and pathfinding in dynamic environments.  
 👉 *Focus:* Game logic, AI algorithms, and data structures for simulation.
 
-📊 **Suqscrape — Real-Time Market Data Scraper** *(Private)*  
-[🔗 Private Repository](https://github.com/hanaatabet/suqscrape)  
-Python-based data collection system for real-time financial data.  
-👉 *Focus:* Web scraping, data pipelines, and real-time system reliability.
-
-♟️ **Go Player — Deep Learning Move Prediction** *(Private)*  
-[🔗 Private Repository](https://github.com/hanaatabet/go_player)  
-Implemented and trained a CNN model (*GoNetV2*) on Go board data to predict moves.  
-👉 *Focus:* Deep learning (PyTorch), model optimization, and deployment.
