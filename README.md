@@ -12,7 +12,6 @@ Currently working on the optimisation of links in quantum networks at Nokia Bell
 
 ## 🔭 What I'm into
 - Distributed systems & system optimization
-- GPU programming (CUDA) and high‑performance rendering
 - Quantum computing and networks
 - Clean engineering practices (Agile, DevOps, CI/CD)
 
